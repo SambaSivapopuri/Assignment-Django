@@ -1,0 +1,14 @@
+# Invoice Management API
+
+This project provides a REST API for managing invoices and their details.
+
+## Features
+- Create invoices with multiple details.
+- Update invoices along with their details.
+- Validation and error handling.
+
+## Setup Instructions
+1. Clone the repository:
+   command Promt
+   git clone <repository-url>
+   cd project-directory
